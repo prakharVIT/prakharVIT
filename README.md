@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prakharVIT
 - 👀 I’m interested in Computer Science and Engineering
-- 🌱 I’m currently learning C/C++ 
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
